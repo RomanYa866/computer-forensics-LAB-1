@@ -1,0 +1,11 @@
+{
+  "name": "computer-forensics-LAB-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RomanYa866/computer-forensics-LAB-1.git",
+  "author": "Roman <roman@inspr.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
